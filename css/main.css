@@ -178,6 +178,7 @@ nav a{
 
 .sm{
   display: flex;
+  justify-content: space-between;
 }
 
 .im {
